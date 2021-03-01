@@ -1,6 +1,5 @@
 body {
 	background-color: black;
-	font: 1.3rem Inconsolata, monospace;
 }
 ::selection {
   background: #0080FF;
@@ -12,7 +11,7 @@ pre {
 }
 
 #console {
-	font-family: courier, monospace;
+	font-family: Inconsolata, monospace;
 	color: #fff;
 	width:750px;
 	margin-left:auto;
