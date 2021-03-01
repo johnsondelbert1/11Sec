@@ -1,0 +1,16 @@
+<span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cd ElevenSec/<!-- kjsdfhkjdhsfkjdshfkj -->Smart_Homes
+<span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->elevensec.txt<br/><br/>
+<pre><span id="b">                                     
+     ':.
+         []_____
+        /\      \
+    ___/  \__/\__\__
+---/\___\ |''''''|__\-- ---
+   ||'''| |''||''|''|
+   ``"""`"`""))""`""`              
+</span></pre>
+<p>Smart Homes</p>
+<p>Services<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br>- Lighting<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br>- Automation<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<br>- Presence detection</br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
