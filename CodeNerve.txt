@@ -1,4 +1,19 @@
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span>ls Services
+
+
+<div class="row">
+    <div class="col-xs-4">
+        <div class="box">Responsive</div>
+    </div>
+    <div class="col-xs-4">
+        <div class="box">Responsive</div>
+    </div>
+    <div class="col-xs-4">
+        <div class="box">Responsive</div>
+    </div>
+</div>
+
+
 <br>Network_Protection  <!-- laglaglaglaglaglaglaglaglaglaglaglag -->Home_Security  <!-- laglaglaglaglaglaglaglaglaglaglaglag --><a href="smarthomes.html">Smarthomes</a></br>
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cd ElevenSec/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->elevensec.txt<br/><br/>
@@ -21,4 +36,3 @@
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Facebook</a> <br> <a href="link2">Twitter</a> and <br> <a href="link3">Linkedin</a>.</p>
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a id="k" href="Your email ID">info@elevensec.com</a>.
-
