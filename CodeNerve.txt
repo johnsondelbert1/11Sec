@@ -1,7 +1,7 @@
 <span id="a">root@DomainOctagon</span>:<span id="b">~</span><span id="c">$</span> cd ElevenSec/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="a">root@DomainOctagon</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->elevensec.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
-<pre><span id="a">
+
+<pre><span id="k">
                                        
  _____ _                 _____         
 |   __| |___ _ _ ___ ___|   __|___ ___ 
