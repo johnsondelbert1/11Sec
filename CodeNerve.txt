@@ -1,22 +1,20 @@
+<span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span>ls Services
+<br>- Network Protection <!-- laglaglaglaglaglaglaglaglaglaglaglag -->Home Security <!-- laglaglaglaglaglaglaglaglaglaglaglag --><a href="smarthomes.html">Smarthomes</a></br>
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cd ElevenSec/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->elevensec.txt<br/><br/>
-<pre><span id="r">                                     
- _____ _                 _____         
-|   __| |___ _ _ ___ ___|   __|___ ___ 
+<pre><span id="r">
+ _____ _                 _____
+|   __| |___ _ _ ___ ___|   __|___ ___
 |   __| | -_| | | -_|   |__   | -_|  _|     #1
-|_____|_|___|\_/|___|_|_|_____|___|___|                
-  ___ _                  ___         
- | __| |_____ _____ _ _ / __| ___ __ 
+|_____|_|___|\_/|___|_|_|_____|___|___|
+  ___ _                  ___
+ | __| |_____ _____ _ _ / __| ___ __
  | _|| / -_) V / -_) ' \\__ \/ -_) _|       #2
  |___|_\___|\_/\___|_||_|___/\___\__|
-                                     
-                       
+
+
 </span></pre>
 <p>We are a Tech Company.</p>
-<p>Services<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<br>- Network Protection<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<br>- Home Security<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<br>- <a href="smarthomes.html">Smarthomes</a></br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <br>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
