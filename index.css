@@ -21,7 +21,10 @@ pre {
 	font-size:14px;
 }
 
-
+a {
+	color: #0bc;
+	text-decoration: none;
+}
 #g {
 	color: #13A10E;
 }
