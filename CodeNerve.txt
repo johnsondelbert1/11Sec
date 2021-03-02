@@ -3,18 +3,17 @@
 
 <div class="row">
     <div class="col-xs-3">
-        <div class="box">Responsive</div>
+        <div class="box">Network_Protection</div>
     </div>
     <div class="col-xs-3">
-        <div class="box">Responsive</div>
+        <div class="box">Home_Security</div>
     </div>
     <div class="col-xs-3">
-        <div class="box">Responsive</div>
+        <div class="box"><a href="smarthomes.html">Smarthomes</a></div>
     </div>
 </div>
 
 
-<br>Network_Protection  <!-- laglaglaglaglaglaglaglaglaglaglaglag -->Home_Security  <!-- laglaglaglaglaglaglaglaglaglaglaglag --><a href="smarthomes.html">Smarthomes</a></br>
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cd ElevenSec/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->elevensec.txt<br/><br/>
 <pre><span id="r">
