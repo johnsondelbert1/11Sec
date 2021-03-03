@@ -18,13 +18,13 @@
 <span id="g">root@DomainOctagon</span>:<span id="m">~</span><span id="b">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->elevensec.txt<br/><br/>
 <pre><span id="r">
 <div class="row">
-<div class="col-xs-6">
+<div class="col-xs-3">
  _____ _                 _____
 |   __| |___ _ _ ___ ___|   __|___ ___
 |   __| | -_| | | -_|   |__   | -_|  _|     #1
 |_____|_|___|\_/|___|_|_|_____|___|___|
 </div>
-<div class="col-xs-6">
+<div class="col-xs-3">
                             ████████████████████████                            
                       ██████████████████████████████████                        
                   ██████████████████████████████████████████                    
